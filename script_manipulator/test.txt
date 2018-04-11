@@ -1,0 +1,17 @@
+1
+00:00:00,740 --> 00:00:01,240
+大家好
+Welcome.
+
+2
+00:00:02,290 --> 00:00:04,210
+麦克能打开吗？
+Can I turn this on?
+
+3
+00:00:04,210 --> 00:00:07,380
+应该没问题了
+Maybe, all right.
+
+大家好 麦克能打开吗？ 应该没问题了 
+Welcome. Can I turn this on? Maybe, all right. 
